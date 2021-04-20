@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+}
+
+h1.my {
+    color: white;
+    }
+
+span.cloud { 
+    color: cyan;
+}
+
+h2 {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    font-style: italic;
+}
+
+h3 {
+    text-align: right;
+    background-color: lightblue;
+    color: darkslateblue;
+    text-decoration: underline;
+}
